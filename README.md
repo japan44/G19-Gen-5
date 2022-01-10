@@ -1,2 +1,3 @@
 # G19-Gen-5
-This frame has not been tested yet. 
+This frame uses gen 5 parts with the exception of the trigger bar and trigger housing 
+Currently in beta testing
